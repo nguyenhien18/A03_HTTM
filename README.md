@@ -12,9 +12,9 @@ Bài tập xây dựng và thử nghiệm các mô hình Neural Network trên ba
 .
 ├── Data/                              # Dữ liệu đầu vào
 ├── models/                            # Các mô hình đã lưu
-├── assignment03_diabetes_compact.ipynb
-├── assignment03_ecommerce_compact.ipynb
-├── assignment03_house_compact.ipynb
+├── B23DCCN290_01_diabete.ipynb
+├── B23DCCN290_02_house.ipynb
+├── B23DCCN290_03_ecommerce.ipynb
 └── README.md
 ```
 
